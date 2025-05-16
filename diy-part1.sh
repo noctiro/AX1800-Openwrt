@@ -22,5 +22,4 @@ feed() {
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-feed nuexini https://github.com/NueXini/NueXini_Packages.git
-feed kiddin9 https://github.com/kiddin9/openwrt-packages.git
+feed nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git
